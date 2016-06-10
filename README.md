@@ -2,4 +2,4 @@
 
 cs50x psets
 
-These are my takes on the psets.
+This is my take on the psets.
