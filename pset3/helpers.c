@@ -10,7 +10,7 @@
 //******************************************************************************************** 
 
  /**
-  * Author: hasanriz
+  * Completed by: hasanriz
   * 
   * Instead of one sort function I've written three different sort functions,
   * - Selection sort,
