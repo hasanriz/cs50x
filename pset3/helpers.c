@@ -6,9 +6,7 @@
  *
  * Helper functions for Problem Set 3.
  */ 
- 
 //******************************************************************************************** 
-
  /**
   * Completed by: hasanriz
   * 
@@ -24,8 +22,9 @@
 #include <cs50.h>
 
 #include "helpers.h"
-
+//prototypes
 bool binary_search (int value, int values[], int n);
+void bubble_sort(int values[], int n);
 
 /**
  * Returns true if value is in array of n values, else false.
